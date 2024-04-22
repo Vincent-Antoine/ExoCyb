@@ -1,0 +1,4 @@
+
+' or 1=1; -- est une chaîne de caractères souvent utilisée dans les attaques par injection SQL pour manipuler une requête SQL.
+Dans ce cas, elle vise à générer une condition toujours vraie (1=1), ce qui permet à un attaquant de contourner les vérifications de mot de passe et d'accéder aux données non autorisées dans une base de données.
+Le -- est utilisé pour commenter le reste de la requête afin d'éviter tout comportement indésirable.
